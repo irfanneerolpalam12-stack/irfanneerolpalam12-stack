@@ -44,16 +44,16 @@
   </g>
 
   <text x="380" y="40" class="blue-accent">irfan@dev ------------------------------------------</text>
-  <text x="380" y="65" class="blue-light">OS: ....................................... Windows, Linux</text>
+  <text x="380" y="65" class="blue-light">OS: ....................................... Windows</text>
   <text x="380" y="90" class="blue-light">Role: ................................. Full Stack Developer</text>
   <text x="380" y="115" class="blue-light">Tools: ................................. VS Code, Git, Docker</text>
 
-  <text x="380" y="155" class="blue-light">Languages: ........................... JavaScript, Python, C++</text>
-  <text x="380" y="180" class="blue-light">Frameworks: ........................ React, Node.js, Express</text>
+  <text x="380" y="155" class="blue-light">Languages: ........................... JavaScript, Python</text>
+  <text x="380" y="180" class="blue-light">Frameworks: ........................ React, Node.js</text>
 
   <text x="380" y="220" class="blue-accent">Contact --------------------------------------------</text>
   <text x="380" y="245" class="blue-light">Email: ............................... irfanneerolpalam@gmail.com</text>
-  <text x="380" y="270" class="blue-light">LinkedIn: .................................. irfan-profile</text>
+  <text x="380" y="270" class="blue-light">LinkedIn: .................................. MOHAMMED IRFAN-profile</text>
   <text x="380" y="295" class="blue-light">GitHub: .................... irfanneerolpalam12-stack</text>
 
   <text x="380" y="335" class="blue-accent">GitHub Stats ---------------------------------------</text>
