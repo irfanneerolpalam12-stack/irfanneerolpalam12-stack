@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./terminal.svg" alt="Terminal Profile" width="100%" />
+  <img src="https://raw.githubusercontent.com/irfanneerolpalam12-stack/irfanneerolpalam12-stack/main/terminal.svg" width="100%" alt="Terminal Profile" />
 </p>
